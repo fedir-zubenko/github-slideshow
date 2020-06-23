@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Peepee and also poopoo
 Use the left arrow to go back!
